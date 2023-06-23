@@ -9,14 +9,13 @@
 
 int main(void)
 {
-	char c;
+	char Alphabet = 'a';
 
-	c = 'a;
 
-	while (c <= 'z')
+	while (Alphabet <= 'z')
 	{
-		putchar(c);
-		C++;
+		putchar(Alphabet);
+		Alphabet = Alphabet + 1;
 	}
 	putchar('\n');
 
