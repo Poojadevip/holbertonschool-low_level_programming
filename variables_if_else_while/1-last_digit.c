@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - print the last digit of the number stored in the variable n
- *
- * return : Always 0 (success)
- */
+*main - print the last digit of
+*the number stored in the variable n
+*
+*return: (0)
+*/
 
 int main(void)
 {
