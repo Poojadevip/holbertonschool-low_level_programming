@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*print_Alphabet -  prints the alphabet, in lowercase
+*print_alphabet -  prints the alphabet, in lowercase
 *
 *return: Always 0 (Sucuess)
 */
@@ -15,4 +15,4 @@ void print_alphabet(void)
 	}
 
 	_putchar('\n');
-}	
+}
