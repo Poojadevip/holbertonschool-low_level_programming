@@ -3,7 +3,6 @@
 /**
  * print_line - prints the number of char to current line
  * @n: number of time character should print
- * @j: Integerprint_line
  * Return: 0
  */
 
